@@ -9,5 +9,5 @@
 
 ## 📫 Connect
 
-- LinkedIn: [in/kylevong](www.linkedin.com/in/kylevong) 🌐
-- Email: [kyle.vong@drexel.edu](kyle.vong@drexel.edu) 📧 
+- LinkedIn: [in/kylevong](https://www.linkedin.com/in/kylevong) 🌐
+- Email: [kyle.vong@drexel.edu](mailto:kyle.vong@drexel.edu) 📧 
