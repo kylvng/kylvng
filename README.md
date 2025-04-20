@@ -1,5 +1,4 @@
-## Hi there 👋
----
+## Hi there 🍜 I'm Kyle!
 
 **Computer Science @ Drexel University** (Class of ’27)
 
