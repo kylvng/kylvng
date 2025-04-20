@@ -1,16 +1,14 @@
 ## Hi there 👋
+---
 
-<!--
-**kylvng/kylvng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science @ Drexel University** (Class of ’27)
 
-Here are some ideas to get you started:
+- **Prev:** Data Engineer Co‑op @ VOX Funding 📈
+- **Incoming:** Software Engineering Intern @ Capital One 💳
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Connect
+
+- LinkedIn: [in/kylevong](www.linkedin.com/in/kylevong) 🌐
+- Email: [kyle.vong@drexel.edu](kyle.vong@drexel.edu) 📧 
