@@ -1,7 +1,7 @@
 ## Hi there 🍜 I'm Kyle!
 
 - **Prev:** Data Engineer Co‑op @ VOX Funding 📈
-- **Incoming:** Software Engineering Intern @ Capital One 💳
+- **Current:** Software Engineering Intern @ Capital One 💳
 
 ---
 
